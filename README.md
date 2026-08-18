@@ -10,4 +10,4 @@
 
 ...
 
-Но зато, вы можете посмотреть [мини-тизер](https://scratch.mit.edu/projects/1369361432/).
+Но зато, вы можете посмотреть [мини-тизер](https://scratch.mit.edu/projects/1369361432/) или [пилот](https://scratch.mit.edu/projects/1369696165/).
